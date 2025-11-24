@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624034625665",
+    "project_id": "alyssonsouzadev",
+    "storage_bucket": "alyssonsouzadev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624034625665:android:00273a32131afd4622f580",
+        "android_client_info": {
+          "package_name": "com.example.app_chamadas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1x2eQ-9fi4byYn0uNCEk0yIhqpCU2Qao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
